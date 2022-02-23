@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c31bc477.css",
-    "main.js": "/static/js/main.9a114ca5.js",
-    "static/js/787.5dc0e2a0.chunk.js": "/static/js/787.5dc0e2a0.chunk.js",
-    "static/media/BBQ-Chicken-Pizza.jpg": "/static/media/BBQ-Chicken-Pizza.5287afe5371b0c38465b.jpg",
-    "static/media/tpspecial.gif": "/static/media/tpspecial.0a83c5f248e15c6cb791.gif",
-    "static/media/choclava.jpg": "/static/media/choclava.8b146131f69d6fe84cca.jpg",
-    "static/media/PeppPizza_600.jpg": "/static/media/PeppPizza_600.f5db933f2c2ed55d5126.jpg",
-    "static/media/pizza-margherita-recipe.jpg": "/static/media/pizza-margherita-recipe.610aeb6e070e3c58c39e.jpg",
-    "static/media/farmhouse.jpg": "/static/media/farmhouse.de92a6280cfc2959ebcb.jpg",
-    "static/media/pizza.jpg": "/static/media/pizza.fa16e63b48c70f7dc78c.jpg",
-    "index.html": "/index.html",
-    "main.c31bc477.css.map": "/static/css/main.c31bc477.css.map",
-    "main.9a114ca5.js.map": "/static/js/main.9a114ca5.js.map",
-    "787.5dc0e2a0.chunk.js.map": "/static/js/787.5dc0e2a0.chunk.js.map"
+    "main.css": "/food-app/static/css/main.c31bc477.css",
+    "main.js": "/food-app/static/js/main.18756fd9.js",
+    "static/js/787.5dc0e2a0.chunk.js": "/food-app/static/js/787.5dc0e2a0.chunk.js",
+    "static/media/BBQ-Chicken-Pizza.jpg": "/food-app/static/media/BBQ-Chicken-Pizza.5287afe5371b0c38465b.jpg",
+    "static/media/tpspecial.gif": "/food-app/static/media/tpspecial.0a83c5f248e15c6cb791.gif",
+    "static/media/choclava.jpg": "/food-app/static/media/choclava.8b146131f69d6fe84cca.jpg",
+    "static/media/PeppPizza_600.jpg": "/food-app/static/media/PeppPizza_600.f5db933f2c2ed55d5126.jpg",
+    "static/media/pizza-margherita-recipe.jpg": "/food-app/static/media/pizza-margherita-recipe.610aeb6e070e3c58c39e.jpg",
+    "static/media/farmhouse.jpg": "/food-app/static/media/farmhouse.de92a6280cfc2959ebcb.jpg",
+    "static/media/pizza.jpg": "/food-app/static/media/pizza.fa16e63b48c70f7dc78c.jpg",
+    "index.html": "/food-app/index.html",
+    "main.c31bc477.css.map": "/food-app/static/css/main.c31bc477.css.map",
+    "main.18756fd9.js.map": "/food-app/static/js/main.18756fd9.js.map",
+    "787.5dc0e2a0.chunk.js.map": "/food-app/static/js/787.5dc0e2a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c31bc477.css",
-    "static/js/main.9a114ca5.js"
+    "static/js/main.18756fd9.js"
   ]
 }
