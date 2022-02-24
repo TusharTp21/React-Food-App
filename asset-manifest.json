@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Food-App/static/css/main.c31bc477.css",
-    "main.js": "/React-Food-App/static/js/main.1cc4043c.js",
+    "main.js": "/React-Food-App/static/js/main.2a6d6daa.js",
     "static/js/787.5dc0e2a0.chunk.js": "/React-Food-App/static/js/787.5dc0e2a0.chunk.js",
     "static/media/BBQ-Chicken-Pizza.jpg": "/React-Food-App/static/media/BBQ-Chicken-Pizza.5287afe5371b0c38465b.jpg",
     "static/media/tpspecial.gif": "/React-Food-App/static/media/tpspecial.0a83c5f248e15c6cb791.gif",
@@ -12,11 +12,11 @@
     "static/media/pizza.jpg": "/React-Food-App/static/media/pizza.fa16e63b48c70f7dc78c.jpg",
     "index.html": "/React-Food-App/index.html",
     "main.c31bc477.css.map": "/React-Food-App/static/css/main.c31bc477.css.map",
-    "main.1cc4043c.js.map": "/React-Food-App/static/js/main.1cc4043c.js.map",
+    "main.2a6d6daa.js.map": "/React-Food-App/static/js/main.2a6d6daa.js.map",
     "787.5dc0e2a0.chunk.js.map": "/React-Food-App/static/js/787.5dc0e2a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c31bc477.css",
-    "static/js/main.1cc4043c.js"
+    "static/js/main.2a6d6daa.js"
   ]
 }
